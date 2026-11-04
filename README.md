@@ -8,3 +8,4 @@ Here's our todo:
 - [x] Fix this typo
 - [x] is this working?
 - [x] miffy says live laugh love
+- [x] i have a bug?
