@@ -9,3 +9,4 @@ Here's our todo:
 - [x] is this working?
 - [x] miffy says live laugh love
 - [x] i have a bug?
+- [x] cats
